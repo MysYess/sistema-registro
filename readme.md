@@ -6,3 +6,5 @@ Para sistema hay que poner:
 
 
 ```npm install react```
+
+actualizacion
